@@ -1,0 +1,20 @@
+.menu-one{
+  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('../../assets/pizza2.jpg');
+  height: 450px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+.menu-one p{
+  margin-left: 7%;
+  font-family: 'Playfair Display', serif;
+}
+.menu-two{
+  background-color: red;
+}
+.menu-text{
+  margin-top: 23%;
+  font-size: 50px;
+  font-family: 'Fjalla One', sans-serif;
+}

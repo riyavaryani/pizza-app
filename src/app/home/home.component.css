@@ -1,0 +1,45 @@
+.home-all{
+  background-image: url("../../assets/leaf.png");
+  height: 100vh;
+  max-width: 98%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+}
+.home-left{
+margin-left: 7%;
+margin-top: 13%;
+}
+.one{
+  font-size: 60px;
+  font-weight: bold;
+  font-family: 'Fjalla One', sans-serif;
+}
+.two{
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Fjalla One', sans-serif;
+}
+.home-right{
+margin-top: 6%;
+}
+span{
+  display: inline-block;
+  margin-left: 10px;
+}
+.icon{
+  margin-top: 15px;
+}
+b{
+  font-size: 20px;
+  font-family: 'Fjalla One', sans-serif;
+}
+i{
+  align-items: center;
+  color: lightgray;
+}
+app-navbar{
+  color: black;
+}
